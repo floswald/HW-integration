@@ -27,6 +27,7 @@ module HW_int
 
 
 	function question_1b(n)
+		# do work
 
 	end
 
